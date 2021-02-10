@@ -1,8 +1,8 @@
-#**Навыки:**
-•	English: Intermediate — Upper-Intermediate;
-•	Знаю и применяю ООП.
-•	Языки программирования:
-·	Знаю хорошо: C++, Google Test, C#, HTML, PHP, MySQL (а также библиотеку RedBeanPHP);
+##**Навыки:**
+*	**English: Intermediate — Upper-Intermediate;**
+*	**Знаю и применяю ООП.**
+*	**Языки программирования:**
+  *	**Знаю хорошо:** C++, Google Test, C#, HTML, PHP, MySQL (а также библиотеку RedBeanPHP);
 ·	Знаю: CSS, Java, Assembler (FASM), CMake, MATLAB, Bash;
 ·	Понимаю, как работать (смогу быстро освоить): Python;
 Инструменты:
