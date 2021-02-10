@@ -4,7 +4,7 @@
   *	**Языки программирования:**
     *	**Знаю хорошо:** C++, Google Test, C#, HTML, PHP, MySQL (а также библиотеку RedBeanPHP);
     *	**Знаю:** CSS, Java, Assembler (FASM), CMake, MATLAB, Bash;
-    *	Понимаю, как работать (смогу быстро освоить):** Python;
+    *	**Понимаю, как работать (смогу быстро освоить):** Python;
 ## **Инструменты:**
   *	**OC: Linux (Kali Linux, Ubuntu), Windows**.
   *	**Linux:**
