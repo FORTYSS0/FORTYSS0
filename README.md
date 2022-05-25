@@ -7,11 +7,11 @@
   *	**от 100 000 р.**
   
 ## **Навыки:**
-   * **Программирование с использованием ООП (объектно-ориентированное программирование).**
+   * **Программирование с использованием ООП (объектно-ориентированное программирование)**
    * **Языки программирования:**
-    * **Продвинутый уровень:** C++, Google Test, C#, HTML, PHP, MySQL (а также библиотеку RedBeanPHP)
-    * **Средний уровень:** Python, CSS, Assembler (FASM), Java script, CMake, MATLAB, Bash
-    * **Начальные уровень:** Java
+     * **Продвинутый уровень:** C++, Google Test, C#, HTML, PHP, MySQL (а также библиотеку RedBeanPHP)
+     * **Средний уровень:** Python, CSS, Assembler (FASM), Java script, CMake, MATLAB, Bash
+     * **Начальные уровень:** Java
    * **Проектирование и работа с базами данных**
    * **Навыки работы и обращения я с документами, информацией и оборудованием, имеющим секретность ДСП, С и СС**
    * **Навыки написания ТЗ в соответствии с ГОСТ**
@@ -21,15 +21,15 @@
   *	**OC: Linux (Kali Linux, Ubuntu), Windows**
   *	**IDA Pro (понимаю основы реверс инжиниринга)**
   *	**Linux:**
-   *	Cisco
-   *	CMake
-   *	Git (В том числе консольная версия)
-   *	Google Test
-   *	Travis CI
+    *	Cisco
+    *	CMake
+    *	Git (В том числе консольная версия)
+    *	Google Test
+    *	Travis CI
   *	**Microsoft:**
-   *	Cisco
-   *	Microsoft Visual Studio
-   *	MATLAB
+    *	Cisco
+    *	Microsoft Visual Studio
+    *	MATLAB
   *	**Также умею работать с Oracle Virtualbox, знаком с VMware Workstation**
 
 ## **Прочее:**
