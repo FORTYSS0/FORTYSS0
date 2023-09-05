@@ -4,8 +4,6 @@
   * **Почта:** dmitriysviridov2001@gmail.com
   * **Telegram:** @FORTYSS_Yrkiy
 
-Гибкий график, гибрид, удалённая работа.
-
 
 
 ## **ОСНОВНЫЕ НАВЫКИ**
