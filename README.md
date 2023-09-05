@@ -5,7 +5,48 @@
 
 Гибкий график, гибрид, удалённая работа.
 
+## **ОСНОВНЫЕ НАВЫКИ**
 
+  * **Программирование с
+использованием ООП.**
+  * **Продвинутый уровень:** Nmap,
+Metasploit, Airodump-ng,
+Bloodhound, Openvas, Wireshark,
+Kerbrute, Macchaner, Active
+Directory, SharpHound, ADExplorer,
+Mimikatz, Bash, Powershell, C++;
+  * **Средний уровень:** Python, CSS,
+Google Test, C#, HTML, PHP,
+MySQL (а также библиотеку
+RedBeanPHP), Assembler (FASM),
+Java script, CMake, MATLAB;
+  * **Начальный уровень:** Java
+  * **OSINT**
+  * Опыт работы с сетевым
+оборудованием различных вендоров
+(Huawei, PaloAlto, Cisco и др.);
+  * Опыт анализа защищенности
+Windows-инфраструктур, поиска и
+эксплуатация уязвимостей Active
+Directory;
+  * Навыки написания ТЗ в
+соответствии с ГОСТ
+  * **OC: Linux (Kali Linux, Ubuntu),
+Windows.**
+  * **IDA Pro (понимаю основы реверс
+инжиниринга)**
+  * **Linux:** nmape, Metasploit, Airodump-
+ng, Bloodhound, Openvas, Wireshark,
+Kerbrute, Macchaner, Cisco Packet
+Tracer, CMake, Git (В консоли),
+Google Test, Travis CI, арсенал Kali
+Linux.
+  * **Microsoft:** Active Directory,
+SharpHound, ADExplorer, Mimikatz,
+Responder, Cisco Packet Tracer,
+Microsoft Visual Studio, MATLAB,
+Microsoft Visio.
+  * **English — Intermediate**
   
 ## **ОПЫТ РАБОТЫ**
 ### **Бастион Ноябрь/2022 – Май/2023**
@@ -46,7 +87,7 @@
 ### **NDA Август/2022 – Октябрь/2022**
 **Пентестер\Специалист по анализу защищенности**
 
-Должностные обязанности:
+Задачи:
   * Участие в проекте по проведению анализа и пентеста
 радиоэлектронных сетей и сетей 5g;
   * Разработка программного обеспечения для
@@ -56,7 +97,7 @@
 ### **"М - СЕРТИФИКАЦИЯ" Январь/2021 –н.в.**
 **Специалист по информационной безопасности**
 
-Должностные обязанности:
+Задачи:
   * Администрирование сетевой инфраструктуры компании с
 точки зрения информационной безопасности;
   * Развёртывание, настройка и работа со СКЗИ, СЗИ;
