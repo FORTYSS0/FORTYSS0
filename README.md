@@ -1,8 +1,8 @@
 ## **Контакты:**
 
   * **Телефон:** +7 (916) 280-04-67
-  * **Почта:** dmitriysviridov2001@gmail.com
-  * **Telegram:** @FORTYSS_Yrkiy
+  * **Почта:** dmitriy_sviridov_2001@mail.com
+  * **Telegram:** @FORTYSS
 
 
 
