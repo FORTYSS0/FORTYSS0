@@ -1,166 +1,56 @@
-## **Контакты:**
+# Dmitriy Sviridov
 
-  * **Телефон:** +7 (916) 280-04-67
-  * **Почта:** dmitriy_sviridov_2001@mail.com
-  * **Telegram:** @FORTYSS
+**BISO · Head of Application Security · DevSecOps & Security Program Leader**
 
+Security leader who bridges executives and engineering teams — 5+ years in application security, DevSecOps, and risk across enterprise retail and financial services. Led AppSec and third-party risk programs and cross-functional initiatives (teams of up to 20), driving security transformation aligned to business goals.
 
+📞 +7 (916) 280-04-67 · ✉️ d.sviridov.work@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/dmitriysviridov) · 💬 [Telegram](https://t.me/SviridovD_work)
 
-## **ОСНОВНЫЕ НАВЫКИ**
+Open to BISO / Head of AppSec roles — remote or relocation.
 
-  * **Программирование с
-использованием ООП.**
-  * **Продвинутый уровень:** Nmap,
-Metasploit, Airodump-ng,
-Bloodhound, Openvas, Wireshark,
-Kerbrute, Macchaner, Active
-Directory, SharpHound, ADExplorer,
-Mimikatz, Bash, Powershell, C++;
-  * **Средний уровень:** Python, CSS,
-Google Test, C#, HTML, PHP,
-MySQL (а также библиотеку
-RedBeanPHP), Assembler (FASM),
-Java script, CMake, MATLAB;
-  * **Начальный уровень:** Java
-  * **OSINT**
-  * Опыт работы с сетевым
-оборудованием различных вендоров
-(Huawei, PaloAlto, Cisco и др.);
-  * Опыт анализа защищенности
-Windows-инфраструктур, поиска и
-эксплуатация уязвимостей Active
-Directory;
-  * Навыки написания ТЗ в
-соответствии с ГОСТ
-  * **OC: Linux (Kali Linux, Ubuntu),
-Windows.**
-  * **IDA Pro (понимаю основы реверс
-инжиниринга)**
-  * **Linux:** nmape, Metasploit, Airodump-
-ng, Bloodhound, Openvas, Wireshark,
-Kerbrute, Macchaner, Cisco Packet
-Tracer, CMake, Git (В консоли),
-Google Test, Travis CI, арсенал Kali
-Linux.
-  * **Microsoft:** Active Directory,
-SharpHound, ADExplorer, Mimikatz,
-Responder, Cisco Packet Tracer,
-Microsoft Visual Studio, MATLAB,
-Microsoft Visio.
-  * **English — Intermediate**
+## Selected impact
 
+| | |
+|---|---|
+| **78%** | of 40+ audited products brought into compliance (FSTEC Order No. 21, ISO 27001, NIST CSF) |
+| **100%** | of Shadow IT legalized, process made repeatable |
+| **30 min** | MTTR on an infrastructure compromise |
+| **−70%** | counterparty penalties via e-signature workflow |
 
-  
-## **ОПЫТ РАБОТЫ**
+## Experience
 
-### **Газпромбанк Июнь/2023 – н.в.**
-**Главный специалист отдела безопасности бизнеса-процессов**
-  * Анализ проектов с ИТ составляющей в качестве аналитика/эксперта по ИБ, формирование требований по информационной безопасности. Проведение приемо-сдаточных испытаний по ИБ;
-  * Проведение пентестов автоматизированных систем, доступных из сети интернет. Подтверждение наличия уязвимостей в разрабатываемых и эксплуатируемых автоматизированных системах;
-  * Участие в проектах с ИТ составляющей в качестве эксперта по ИБ и технического эксперта по защите информации, анализ архитектурных решений, разработка и согласование реализации требований по информационной безопасности;
-  * Экспертиза проектов с ИТ составляющей в части применимости сервисов по ИБ;
-  * Выявление и анализ рисков, угроз информационной безопасности автоматизированных систем, бизнес-процессов. Экспертиза бизнес-инициатив в части анализа автоматизируемых процессов на предмет рисков ИБ, соответствия требованиям законодательства и регуляторов;
-  * Оценка рисков и обоснование необходимости их минимизации, разработка контрольных процедур;
-  * Анализ проектной документации и технических решений АС с целью выявления и оценки рисков ИБ;
-  * Участие в совершенствовании бизнес-процессов и процессов производства программного обеспечения.
+### BISO / Application Security Lead — Lemana PRO (formerly Leroy Merlin Russia)
+*Sep 2024 — Jul 2026*
+- Initiated and led the enterprise DevSecOps program: designed the target process for embedding security gates (SAST, SCA, DAST, threat modeling) into the SSDLC and CI/CD, secured stakeholder buy-in, and launched the initiative.
+- Ran a company-wide audit against FSTEC Order No. 21 that flagged 40+ non-compliant products; led risk-prioritized remediation and a roadmap, bringing 78% into compliance (ISO 27001, NIST CSF).
+- Built third-party security governance across technical, organizational, and legal dimensions (requirements, procurement, contracts incl. DPA) — now mandatory for every new vendor.
+- Led the Shadow IT legalization program end-to-end, coordinating development and infrastructure teams and improving IT-asset inventory — 100% of discovered assets legalized.
+- Embedded a secure-by-design culture through architecture reviews and coaching (OWASP); the Security Champions community is largely managers and engineers I trained.
+- Provided non-functional leadership to a cross-functional team of 15–20: managed competing priorities, defended budgets before senior leadership, shaped annual security strategy and security-debt management.
 
-### **Бастион Ноябрь/2022 – Июнь/2023**
-**Infrastructure penetration tester**
+### Head of IT / DPO (part-time) — M-Sertifikatsiya
+*Jan 2021 — Present*
+- Led incident response to an infrastructure compromise: contained and resolved in 30 minutes (MTTR); managed CEO communication, ran the investigation, authored an IR playbook.
+- Deployed an e-signature document workflow, cutting counterparty penalties by 70% and enabling tender participation (~10 additional contracts over 2 years).
+- As DPO, brought the company into compliance with the Russian Personal Data Law (152-FZ).
+- Led the IT/security function (2 direct reports, non-functional leadership of 6–7); owned the budget and annual plan.
 
-Задачи:
-  * Исследование и анализ уязвимостей систем;
-  * Проведения пентестов автоматизированных систем.
-Выявление и подтверждение уязвимостей в разрабатываемых
-и эксплуатируемых системах,
-  * Анализ защищенности Windows-инфраструктур, поиск и
-эксплуатация уязвимостей Active Directory;
-  * Анализ защищенности Unix-инфраструктур;
-  * Атаки на внешнюю инфраструктуру и беспроводные сети;
-  * Атаки на сетевое оборудование (IPMI, Port Security)
-  * Работы с основными утилитами для проведения тестов на
-проникновение: nmap, metasploit а также из GNU Kali Linux;
-  * Эксплуатация уязвимостей в ПО;
-  * Исследование трафика и контроль доступа;
-  * Подключение оборудования к внутренней сети компании для
-удаленного доступа и повышения привилегий;
-  * Применение методов социальной инженерии для атак на
-персонал;
-  * Снятие копий с RFID и NFC меток, ключей, пропусков;
-  * Раскрытие информации и получение доступа к
-конфиденциальным данным;
-  * Проведение почтовых рассылок с вредоносными вложениями
-и подменой отправителя;
-  * Получение информации о пользователях сервера;
-  * Консультации по запросу со стороны бизнес-заказчиков в
-части анализа автоматизируемых процессов на предмет рисков
-информационной безопасности, соответствия требованиям
-законодательства и регуляторов;
-  * Подготовка аналитических заключений и разработка
-рекомендаций по оптимизации внутренних систем
-информационной безопасности.
+### Security SME, Business-Process Security — Gazprombank
+*Jun 2023 — Apr 2024*
+- Security SME for IT initiatives: security requirements, architecture reviews, risk assessments, compensating controls.
+- Security testing of internet-facing systems and vulnerability validation before production.
 
-### **NDA Август/2022 – Октябрь/2022**
-**Пентестер\Специалист по анализу защищенности**
+### Vulnerability Analyst — Bastion
+*Nov 2022 — Jun 2023*
+- Penetration tests of information systems and networks (Kali Linux, Burp Suite, Metasploit, OpenVAS, OSINT), confirming several critical vulnerabilities in critical-infrastructure assets.
 
-Задачи:
-  * Участие в проекте по проведению анализа и пентеста
-радиоэлектронных сетей и сетей 5g;
-  * Разработка программного обеспечения для
-автоматизированных атак на радиоэлектронные сети и сети 5g.
-  * Osint.
-    
-### **"М - СЕРТИФИКАЦИЯ" Январь/2021 – н.в.**
-**Специалист по информационной безопасности**
+### Penetration Tester / Security Assessment Specialist — project-based
+*Aug 2022 — Oct 2022*
+- Security assessment of radio-electronic and 5G networks; developed automation tooling that accelerated testing.
 
-Задачи:
-  * Администрирование сетевой инфраструктуры компании с
-точки зрения информационной безопасности;
-  * Развёртывание, настройка и работа со СКЗИ, СЗИ;
-  * Проектирование, построение и контроль внутренней сети
-компании;
-  * Автоматизация СЭД с использованием ЭЦП;
-  * Разработка внутренних регламентов и контроль исполнения
-принятых процедур по ЭДО.
+## Focus areas
+`Secure SDLC` `DevSecOps` `SAST / SCA / DAST` `Threat modeling (STRIDE)` `OWASP ASVS` `Third-party risk` `ISO 27001` `NIST CSF` `FSTEC` `152-FZ / DPO` `Incident response` `Penetration testing`
 
-
-
-## **ОБРАЗОВАНИЕ**
-
-### **МГТУ им. Н.Э. Баумана**
-  * Факультет: Информатика и
-системы управления
-  * Направление: Защита
-информации
-  * Год поступления: 2019 (5 курс)
-
-
-
-## **ЛИЧНЫЕ КАЧЕСТВА**
-
-  * Умение работать в режиме многозадачности в сжатые
-сроки
-  * Умение планировать ресурсы и навыки
-самоорганизации
-  * Открытость к новым знаниям и высокая мотивация на
-развитие собственных компетенций
-  * Развитые навыки анализа
-  * Навык выстраивания эффективной коммуникации и
-аргументации собственной точки зрения
-
-
-
-## **НАУЧНАЯ И ПРОЕКТНАЯ ДЕЯТЕЛЬНОСТЬ**
-
-  * В рамках прохождения учебной практики написал парсер для
-отслеживания географического местоположения действующего
-сенатора США при помощи социальных сетей и открытых
-источников в сети интернет. Парcер написан на языке Python.
-  * В рамках выполнения курсовой работы с целью освоения
-навыков защиты от подобных вирусов написал Botnet,
-клиентская часть написана на C#, веб-панель управления на
-PHP, БД на SQL, реализована неудаляемость бота и отсутствие
-отображения в диспетчере задач.
-  * Создал многостраничный сайт «Ethical hacking laboratory»,
-написанный на PHP и HTML5, c использованием баз данных
-SQL, при помощи MySQL, также при разработке
-использовались JS, CSS, Bootstrap.
+## Education & languages
+- Bauman Moscow State Technical University — Specialist programme in Information Security, expected 2028
+- Russian — native · English — B2 (Upper-Intermediate)
